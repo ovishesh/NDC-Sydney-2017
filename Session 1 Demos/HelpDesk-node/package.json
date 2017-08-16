@@ -1,0 +1,19 @@
+{
+  "name": "helpdesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishesh Oberoi",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "dotenv": "^4.0.0",
+    "restify": "^5.1.0",
+    "restify-plugins": "^1.6.0",
+    "restify-clients": "^1.5.0"
+  }
+}
